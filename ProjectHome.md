@@ -1,0 +1,1 @@
+The service program of flexRemote. The app can help you to control your computer by shortcuts. It can be used to control audio and video player or PPT and etc.
